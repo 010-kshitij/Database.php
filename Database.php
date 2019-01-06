@@ -5,11 +5,11 @@ class Database {
 
     private static $link;
 
-    private static $user = 'greewdyw_sellersummary';
-    //private static $user = 'root';
-   private static $pass = '123qwe';
+    private static $user = '<USER>';
+    
+   private static $pass = '<PASSWORD>';
    //private static $pass = '';
-    private static $database = 'greewdyw_sellersummary';
+    private static $database = '<DATABASE>';
 
     protected $_tableName = '';
 
